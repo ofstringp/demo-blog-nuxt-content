@@ -7,9 +7,12 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/articles
-  label: articles
+  path: content/tags
+  label: Tags
   match: "**/*"
+- type: document
+  path: content/articles
+  label: Articles
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
