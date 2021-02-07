@@ -11,6 +11,11 @@ sections:
   label: Articles
   create: documents
   match: "**/*"
+- type: directory
+  path: content/tags
+  label: Tags
+  create: documents
+  match: "**/*"
 upload_dir: static
 public_path: "/static"
 front_matter_path: ''
