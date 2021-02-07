@@ -7,7 +7,8 @@ author:
   name: thats him
   bio: that's johnny
   img: "/static/tealblue.jpeg"
-tags: []
+tags:
+- python
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nisi mauris, condimentum molestie mollis in, cursus vel est. Nullam eleifend leo ex, eget aliquet arcu porta eget. Duis vel nisi consequat, auctor ipsum at, pellentesque arcu. Duis vel erat sit amet massa lobortis auctor ac sit amet sapien. Pellentesque volutpat turpis vel lorem consectetur, a eleifend turpis consectetur. Duis enim purus, mollis vel nulla sed, feugiat lacinia dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce porttitor eleifend est, eget porttitor tellus. In commodo, ipsum quis dapibus ullamcorper, nisl tortor mollis urna, ac tempus nisi augue in nisl. Maecenas ut fringilla est, sed mollis velit. Duis a nisl at nisl tempus posuere. Integer aliquam hendrerit congue. Ut sit amet luctus augue. Proin rhoncus ultrices velit, at pulvinar turpis blandit at. Duis egestas, elit et dapibus ultrices, ex nisl condimentum risus, sed finibus nisl turpis rutrum erat. Morbi lectus ligula, sagittis sed molestie et, sodales in dui.
