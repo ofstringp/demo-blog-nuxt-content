@@ -12,4 +12,4 @@ tags:
 - python
 
 ---
-oh shit this is where the informaiton goes that's pretty lit bro lolololololol
+I should put something better hee, liek lorem or something
