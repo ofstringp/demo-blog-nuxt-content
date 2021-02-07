@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content/articles
   label: Articles
   create: documents
   match: "**/*"
-- type: heading
-  label: Content
 upload_dir: static
 public_path: "/static"
 front_matter_path: ''
