@@ -1,7 +1,7 @@
 ---
 title: hmm
 description: looks like this has some errors
-alt: i need to see what's wrong with it
+alt: something with the image?...
 img: "/static/e.jpeg"
 author:
   name: thats him
