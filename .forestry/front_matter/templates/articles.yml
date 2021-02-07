@@ -35,4 +35,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/articles/hmm.md
 - content/articles/new-article.md
