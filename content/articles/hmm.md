@@ -1,16 +1,17 @@
 ---
 title: hmm
-description: looks like this has some errors
+description: I can't beelive its working, i should really change this to text area
+  jfc whats werognwignorfneoirgnoeingoeirng
 alt: i need to see what's wrong with it
-img: '/e.jpeg'
+img: "/e.jpeg"
 author:
   name: thats him
   bio: that's johnny
-  img: '/tealblue.jpeg'
+  img: "/tealblue.jpeg"
 tags:
-  - python
----
+- python
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nisi mauris, condimentum molestie mollis in, cursus vel est. Nullam eleifend leo ex, eget aliquet arcu porta eget. Duis vel nisi consequat, auctor ipsum at, pellentesque arcu. Duis vel erat sit amet massa lobortis auctor ac sit amet sapien. Pellentesque volutpat turpis vel lorem consectetur, a eleifend turpis consectetur. Duis enim purus, mollis vel nulla sed, feugiat lacinia dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce porttitor eleifend est, eget porttitor tellus. In commodo, ipsum quis dapibus ullamcorper, nisl tortor mollis urna, ac tempus nisi augue in nisl. Maecenas ut fringilla est, sed mollis velit. Duis a nisl at nisl tempus posuere. Integer aliquam hendrerit congue. Ut sit amet luctus augue. Proin rhoncus ultrices velit, at pulvinar turpis blandit at. Duis egestas, elit et dapibus ultrices, ex nisl condimentum risus, sed finibus nisl turpis rutrum erat. Morbi lectus ligula, sagittis sed molestie et, sodales in dui.
 
 Nunc imperdiet sapien nec lorem malesuada, ut molestie libero fringilla. Nam semper vitae ex a facilisis. Integer dictum enim turpis, at tincidunt mauris vulputate et. Duis suscipit risus eu sapien placerat, quis volutpat urna aliquet. Vivamus pulvinar, turpis at tincidunt posuere, turpis urna lacinia lectus, efficitur gravida magna quam eu mauris. Morbi iaculis magna a ex malesuada tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam tincidunt ullamcorper euismod. Suspendisse condimentum nisl at nibh eleifend feugiat.
